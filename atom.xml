@@ -5,21 +5,36 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2020-04-14T15:19:53.520Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://blog.wlhooop.top/"/>
+  <updated>2020-04-16T10:54:36.274Z</updated>
+  <id>http://blog.wlhooop.top/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>wlh</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>article title</title>
+    <link href="http://blog.wlhooop.top/2020/04/16/article-title/"/>
+    <id>http://blog.wlhooop.top/2020/04/16/article-title/</id>
+    <published>2020-04-16T10:54:36.000Z</published>
+    <updated>2020-04-16T10:54:36.274Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/04/14/hello-world/"/>
-    <id>http://yoursite.com/2020/04/14/hello-world/</id>
+    <link href="http://blog.wlhooop.top/2020/04/14/hello-world/"/>
+    <id>http://blog.wlhooop.top/2020/04/14/hello-world/</id>
     <published>2020-04-14T15:19:53.520Z</published>
     <updated>2020-04-14T15:19:53.520Z</updated>
     
